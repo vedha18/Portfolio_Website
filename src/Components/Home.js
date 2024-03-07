@@ -5,7 +5,8 @@ export const Home = () => {
     <section>
     <div  className=" bg-gray-900 max-w-[1200px] h-[80vh] mx-auto flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-8">
       <div className="text-white sm:max-w-[50%] px-4">
-        <h1 className="text-4xl sm:text-5xl font-bold">I'm VEDHA JOTHIKA D</h1><br></br>
+      <h1 className="text-3xl sm:text-4xl font-bold">I'm VEDHA JOTHIKA D</h1>
+       <br></br>
         <p className="text-xl sm:text-2xl color">I'm a fresher</p>
       </div>
       <div className="flex justify-center sm:max-w-[50%] px-4">

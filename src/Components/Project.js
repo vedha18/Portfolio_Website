@@ -9,7 +9,8 @@ export default function Project(){
     return <section id='projects' className="flex flex-col h-[70] py-10 px-5 mb-5 justify-center text-white items-center ">
         <div className="w-1/2">
           <div className="flex justify-center"> 
-            <h1 className="text-4xl  mb-5  font-bold m-4 color">My Works</h1> 
+          <h1 className="text-2xl mb-5 font-bold m-4 color flex flex-wrap items-center sm:text-3xl">My Works</h1>
+ 
           </div>
         </div>
         <div className=" w-full">
